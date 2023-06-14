@@ -297,7 +297,7 @@
 				<Title>2023_01_17_00_00_2023_01_17_23_59_sentinel_2_l2a_false_color__urban_</Title>
 				<Abstract>GH:2023_01_17_00_00_2023_01_17_23_59_sentinel_2_l2a_false_color__urban_ ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/carcassondiego/Mappia_Example/releases/download/Map_Download/2023_01_17_00_00_2023_01_17_23_59_sentinel_2_l2a_false_color__urban_.zip˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸tif˸˸˸//github.com/carcassondiego/Mappia_Example/releases/download/Map_Download/2023_01_17_00_00_2023_01_17_23_59_sentinel_2_l2a_false_color__urban_.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-63.83472919464112" miny="-22.546885265862855" maxx="-63.75233173370362" maxy="-22.509742129830368"></LatLonBoundingBox>
